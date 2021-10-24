@@ -1,0 +1,3 @@
+[submodule "install-arch/archiso-zfs"]
+	path = install-arch/archiso-zfs
+	url = https://github.com/eoli3n/archiso-zfs.git
